@@ -15,14 +15,17 @@ body {
 }
 
 .text-red {
+  text-align: right;
   color: #ff0000;
 }
 
 header, main, footer {
+  text-align: center;
   padding: 20px;
 }
 
 header {
+  text-align: center;
   background-color: #1e1e1e;
 }
 
