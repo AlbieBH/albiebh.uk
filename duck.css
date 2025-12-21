@@ -26,7 +26,7 @@ header, main, footer {
 
 header {
   text-align: center;
-  background-color: #1e1e1e;
+  background-color: #1f1f1f;
 }
 
 main {
@@ -34,6 +34,6 @@ main {
 }
 
 footer {
-  background-color: #1e1e1e;
+  background-color: #1f1f1f;
   text-align: center;
 }
