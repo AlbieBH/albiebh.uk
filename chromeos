@@ -1,3 +1,8 @@
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AlbieBH</title>
+<link rel="stylesheet" href="duck.css" />
+</head>
 <h1>to unenroll, you need to use quicksilver:</h1>
 <h3>1. go to: <a href="https://dl.snerill.org/QuickSilver">Quicksilver</a> and downlaod your board's shim (lenovo 300e chromebooks are 'zork')</h3>
 <h3>2. download <a href="https://chromewebstore.google.com/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm?hl=en-GB&pli=1">chromeos recovery utility</a> on your chrome browser on an unenrolled device</h3>
