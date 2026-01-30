@@ -3,14 +3,14 @@
 <title>AlbieBH</title>
 <link rel="stylesheet" href="duck.css" />
 </head>
-<h1>to unenroll, you need to use quicksilver:</h1>
-<h3>1. go to: <a href="https://dl.snerill.org/QuickSilver">Quicksilver</a> and downlaod your board's shim (lenovo 300e chromebooks are 'zork')</h3>
-<h3>2. download <a href="https://chromewebstore.google.com/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm?hl=en-GB&pli=1">chromeos recovery utility</a> on your chrome browser on an unenrolled device</h3>
-<h3>3. open chromeos recovery utility and press the gear icon in the top right - then click 'use local image'. select your downloaded file</h3>
-<h3>4. follow the steps to flash the image to a usb (8GB or larger)</h3>
-<h3>5. on your chromebook, hold down the power button, the refresh key, and the 'esc' key. you should now be in recovery</h3>
-<h3>6. press 'ctrl' and 'd' on your keyboard at the same time, it will prompt you to enter developer mode - confirm and enetr developer mode</h3>
-<h3>7. wait - you should now be on a screen that says 'return to secure mdoe'. press 'esc', refresh and the power keys again.</h3>
-<h3>8. now plug your usb that you prepared earlier into you chromebook, let it do its thing until you see a screen with 'QUICKSILVER' in the top left</h3>
-<h3>9. enter '1' for unenroll, when it says done, unplug your usb and press just the refresh key and the power key</h3>
-<h3>10. when signing in, log in to your non-school account before adding your school account</h3>
+<h1 class="text-white">to unenroll, you need to use quicksilver:</h1>
+<h3 class="text-white">1. go to: <a href="https://dl.snerill.org/QuickSilver">Quicksilver</a> and downlaod your board's shim (lenovo 300e chromebooks are 'zork')</h3>
+<h3 class="text-white">2. download <a href="https://chromewebstore.google.com/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm?hl=en-GB&pli=1">chromeos recovery utility</a> on your chrome browser on an unenrolled device</h3>
+<h3 class="text-white">3. open chromeos recovery utility and press the gear icon in the top right - then click 'use local image'. select your downloaded file</h3>
+<h3 class="text-white">4. follow the steps to flash the image to a usb (8GB or larger)</h3>
+<h3 class="text-white">5. on your chromebook, hold down the power button, the refresh key, and the 'esc' key. you should now be in recovery</h3>
+<h3 class="text-white">6. press 'ctrl' and 'd' on your keyboard at the same time, it will prompt you to enter developer mode - confirm and enetr developer mode</h3>
+<h3 class="text-white">7. wait - you should now be on a screen that says 'return to secure mdoe'. press 'esc', refresh and the power keys again.</h3>
+<h3 class="text-white">8. now plug your usb that you prepared earlier into you chromebook, let it do its thing until you see a screen with 'QUICKSILVER' in the top left</h3>
+<h3 class="text-white">9. enter '1' for unenroll, when it says done, unplug your usb and press just the refresh key and the power key</h3>
+<h3 class="text-white">10. when signing in, log in to your non-school account before adding your school account</h3>
